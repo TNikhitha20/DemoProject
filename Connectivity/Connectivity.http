@@ -1,0 +1,6 @@
+@Connectivity_HostAddress = http://localhost:5015
+
+GET {{Connectivity_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
